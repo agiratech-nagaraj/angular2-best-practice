@@ -1,10 +1,10 @@
 # Angular Best Practice and Starter kit
 
 
-   While developing the medium or large level project, it will be 
+   While developing the medium or large level project, maintain the project  will be 
  the biggest thing because there are lot of problem may come in future
  by bad project structure and coding styles. To avoid these thing
- i have created this project. 
+ We have created this project. 
 
   
    This project written in angular 7. That doesn't matter, The following
